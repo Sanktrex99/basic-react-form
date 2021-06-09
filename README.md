@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic ReactJS form that takes certain user inputs and validates the inputs on submitting.
+Basic useState logic has been implemented and do not worry it is only a frontend project with no backend to store your information.
+Thank you.
 
 ## How to run:
 - Open a terminal/command line in a directory where you want to save the project to
